@@ -1,5 +1,4 @@
 #!/bin/bash
-# Liste les fichiers du répertoire courant, incluant les fichiers cachés
 ls -al .
 ls -al ..
 ls -al /boot
