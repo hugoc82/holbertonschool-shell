@@ -1,9 +1,0 @@
-#!/bin/bash
-# Affiche les fichiers dans le répertoire courant
-ls -al
-
-# Affiche les fichiers dans le répertoire parent
-ls -al ..
-
-# Affiche les fichiers dans le répertoire /boot
-ls -al /boot
