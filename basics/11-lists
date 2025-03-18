@@ -1,9 +1,9 @@
 #!/bin/bash
-# Affiche les fichiers dans le répertoire courant
-ls -al
+# Liste les fichiers du répertoire courant, incluant les fichiers cachés
+ls -al .
 
-# Affiche les fichiers dans le répertoire parent
+# Liste les fichiers du répertoire parent, incluant les fichiers cachés
 ls -al ..
 
-# Affiche les fichiers dans le répertoire /boot
+# Liste les fichiers dans le répertoire /boot, incluant les fichiers cachés
 ls -al /boot
